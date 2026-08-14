@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Analytics } from "@vercel/analytics/next"
 import { Footer } from "@/components/footer";
 import { Navbar } from "@/components/navbar";
 import { siteConfig } from "@/lib/site";
@@ -25,6 +26,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       <body className="min-h-full bg-cream font-sans text-ink">
         <div className="flex min-h-screen flex-col overflow-x-clip">
           <Navbar />
+          <Analytics />
           <main className="flex-1">{children}</main>
           <Footer />
         </div>
