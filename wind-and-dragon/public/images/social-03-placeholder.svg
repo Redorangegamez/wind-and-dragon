@@ -1,0 +1,8 @@
+<svg width="600" height="600" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="600" fill="#F7D5CD"/>
+  <path d="M0 500C106 408 194 412 293 489C398 571 495 538 600 434V600H0V500Z" fill="#D85A45"/>
+  <path d="M168 206L255 139H345L432 206L491 267L438 323L401 287V447H199V287L162 323L109 267L168 206Z" fill="#FFFDF8"/>
+  <rect x="250" y="291" width="100" height="100" rx="13" fill="#0D4A3D"/>
+  <text x="300" y="362" text-anchor="middle" fill="#EFC154" font-family="Georgia, serif" font-size="61">東</text>
+  <text x="300" y="550" text-anchor="middle" fill="#FFFDF8" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">SOCIAL PLACEHOLDER</text>
+</svg>

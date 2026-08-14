@@ -1,0 +1,17 @@
+<svg width="800" height="1000" viewBox="0 0 800 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1000" fill="#F9D8CE"/>
+  <path d="M0 97C155 39 260 65 411 137C564 209 676 199 800 140V0H0V97Z" fill="#EFC154"/>
+  <g transform="rotate(-13 296 447)">
+    <rect x="122" y="250" width="330" height="403" rx="42" fill="#FFFDF8"/>
+    <rect x="142" y="270" width="290" height="363" rx="25" stroke="#1D322B" stroke-opacity=".25" stroke-width="3"/>
+    <text x="287" y="493" text-anchor="middle" fill="#D85A45" font-family="Georgia, serif" font-size="150">東</text>
+  </g>
+  <g transform="rotate(18 555 620)">
+    <rect x="401" y="447" width="252" height="312" rx="35" fill="#0D4A3D"/>
+    <circle cx="526" cy="555" r="54" fill="#EFC154"/>
+    <circle cx="526" cy="555" r="21" fill="#D85A45"/>
+    <path d="M456 679C484 632 566 632 598 679" stroke="#FFFDF8" stroke-linecap="round" stroke-width="12"/>
+  </g>
+  <path d="M92 812C154 754 243 773 287 828C330 882 389 876 435 824C497 754 599 759 661 829" stroke="#D85A45" stroke-linecap="round" stroke-width="18"/>
+  <text x="400" y="913" text-anchor="middle" fill="#1D322B" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="3">PRODUCT PLACEHOLDER</text>
+</svg>

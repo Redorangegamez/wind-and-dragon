@@ -1,0 +1,9 @@
+<svg width="600" height="600" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="600" fill="#D8E4DB"/>
+  <circle cx="162" cy="442" r="223" fill="#0D4A3D"/>
+  <circle cx="441" cy="154" r="142" fill="#D85A45"/>
+  <rect x="216" y="159" width="226" height="274" rx="28" fill="#FFFDF8" transform="rotate(11 216 159)"/>
+  <circle cx="332" cy="295" r="60" stroke="#EFC154" stroke-width="16"/>
+  <circle cx="332" cy="295" r="24" fill="#D85A45"/>
+  <text x="300" y="549" text-anchor="middle" fill="#FFFDF8" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">SOCIAL PLACEHOLDER</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg width="1200" height="1400" viewBox="0 0 1200 1400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1400" fill="#F2E3C7"/>
+  <path d="M0 246C229 177 328 261 531 203C756 138 897 30 1200 154V0H0V246Z" fill="#E86D56"/>
+  <path d="M135 1107C364 958 495 1020 676 1100C857 1180 1044 1200 1200 1116V1400H0V1188C51 1174 93 1144 135 1107Z" fill="#0D4A3D"/>
+  <g transform="rotate(-8 696 633)">
+    <rect x="384" y="355" width="498" height="620" rx="42" fill="#FFFDF8"/>
+    <rect x="409" y="381" width="448" height="570" rx="28" stroke="#1E322C" stroke-opacity=".28" stroke-width="3"/>
+    <path d="M519 672C519 563 586 491 661 491C736 491 803 563 803 672V774H519V672Z" fill="#D85945"/>
+    <path d="M572 774V624C572 577 610 539 657 539H666C713 539 751 577 751 624V774" fill="#F4C056"/>
+    <circle cx="661" cy="656" r="53" fill="#FFFDF8"/>
+    <path d="M661 620V692M625 656H697" stroke="#0D4A3D" stroke-linecap="round" stroke-width="11"/>
+    <path d="M509 866H748" stroke="#1E322C" stroke-linecap="round" stroke-width="3"/>
+    <text x="628" y="907" text-anchor="middle" fill="#1E322C" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="4">WIND &amp; DRAGON</text>
+  </g>
+  <g transform="rotate(11 253 850)">
+    <rect x="106" y="688" width="270" height="328" rx="26" fill="#FFFDF8"/>
+    <rect x="124" y="706" width="234" height="292" rx="15" stroke="#1E322C" stroke-opacity=".3" stroke-width="2"/>
+    <text x="241" y="851" text-anchor="middle" fill="#D85945" font-family="Georgia, serif" font-size="104">中</text>
+    <path d="M175 909H307" stroke="#0D4A3D" stroke-linecap="round" stroke-width="9"/>
+    <path d="M241 884V934" stroke="#0D4A3D" stroke-linecap="round" stroke-width="9"/>
+  </g>
+  <g transform="rotate(-15 975 966)">
+    <rect x="840" y="808" width="260" height="328" rx="26" fill="#FFFDF8"/>
+    <rect x="858" y="826" width="224" height="292" rx="15" stroke="#1E322C" stroke-opacity=".3" stroke-width="2"/>
+    <circle cx="970" cy="950" r="54" stroke="#D85945" stroke-width="13"/>
+    <circle cx="970" cy="950" r="23" fill="#D85945"/>
+    <path d="M898 1041H1042" stroke="#0D4A3D" stroke-linecap="round" stroke-width="9"/>
+  </g>
+  <text x="84" y="1326" fill="#FFFDF8" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="3">PLACEHOLDER ARTWORK · REPLACE WITH HERO PHOTOGRAPHY</text>
+</svg>
