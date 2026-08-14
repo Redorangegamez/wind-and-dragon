@@ -1,0 +1,12 @@
+<svg width="800" height="1000" viewBox="0 0 800 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1000" fill="#E6E8D2"/>
+  <circle cx="100" cy="798" r="168" fill="#EFC154"/>
+  <circle cx="673" cy="192" r="148" fill="#D85A45"/>
+  <path d="M214 370H586L552 770H248L214 370Z" fill="#FFFDF8"/>
+  <path d="M214 370H586L552 770H248L214 370Z" stroke="#1D322B" stroke-opacity=".3" stroke-width="4"/>
+  <path d="M291 372V288C291 231 339 185 400 185C461 185 509 231 509 288V372" stroke="#1D322B" stroke-width="25"/>
+  <rect x="310" y="458" width="180" height="181" rx="18" fill="#EFC154"/>
+  <path d="M339 554C368 507 436 507 463 554C444 596 359 596 339 554Z" fill="#0D4A3D"/>
+  <circle cx="400" cy="551" r="27" fill="#D85A45"/>
+  <text x="400" y="855" text-anchor="middle" fill="#1D322B" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="3">PRODUCT PLACEHOLDER</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg width="800" height="1000" viewBox="0 0 800 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1000" fill="#F4E4C9"/>
+  <circle cx="105" cy="143" r="144" fill="#D85A45"/>
+  <circle cx="705" cy="870" r="175" fill="#EFC154"/>
+  <path d="M215 321L333 245H468L585 321L687 418L590 521L537 469V753H263V469L210 521L113 418L215 321Z" fill="#FFFDF8"/>
+  <path d="M215 321L333 245H468L585 321L687 418L590 521L537 469V753H263V469L210 521L113 418L215 321Z" stroke="#1D322B" stroke-opacity=".3" stroke-width="4"/>
+  <path d="M333 245C333 306 359 337 400 337C441 337 467 306 467 245" stroke="#1D322B" stroke-opacity=".3" stroke-width="4"/>
+  <rect x="315" y="430" width="170" height="179" rx="17" fill="#0D4A3D"/>
+  <text x="400" y="550" text-anchor="middle" fill="#FFFDF8" font-family="Georgia, serif" font-size="92">中</text>
+  <text x="400" y="846" text-anchor="middle" fill="#1D322B" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="3">PRODUCT PLACEHOLDER</text>
+</svg>

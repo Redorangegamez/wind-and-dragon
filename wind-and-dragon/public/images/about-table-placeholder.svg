@@ -1,0 +1,21 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#D8E4DB"/>
+  <circle cx="1030" cy="108" r="181" fill="#EEC055"/>
+  <rect x="139" y="137" width="922" height="630" rx="62" fill="#0D4A3D"/>
+  <rect x="167" y="164" width="866" height="576" rx="43" stroke="#FFFDF8" stroke-opacity=".45" stroke-width="4"/>
+  <g transform="rotate(-8 315 441)">
+    <rect x="224" y="257" width="180" height="242" rx="20" fill="#FFFDF8"/>
+    <text x="314" y="405" text-anchor="middle" fill="#D85A45" font-family="Georgia, serif" font-size="112">東</text>
+  </g>
+  <g transform="rotate(6 580 369)">
+    <rect x="490" y="244" width="180" height="242" rx="20" fill="#FFFDF8"/>
+    <circle cx="580" cy="360" r="48" stroke="#D85A45" stroke-width="13"/>
+    <circle cx="580" cy="360" r="18" fill="#D85A45"/>
+  </g>
+  <g transform="rotate(-7 847 512)">
+    <rect x="757" y="374" width="180" height="242" rx="20" fill="#FFFDF8"/>
+    <text x="847" y="522" text-anchor="middle" fill="#D85A45" font-family="Georgia, serif" font-size="112">南</text>
+  </g>
+  <path d="M434 564C513 517 597 521 674 569" stroke="#EEC055" stroke-linecap="round" stroke-width="20"/>
+  <text x="600" y="835" text-anchor="middle" fill="#1D322B" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="3">LIFESTYLE IMAGE PLACEHOLDER · REPLACE WITH TABLE OR TOURNAMENT PHOTOGRAPHY</text>
+</svg>

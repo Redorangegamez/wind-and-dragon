@@ -1,0 +1,12 @@
+<svg width="1000" height="1200" viewBox="0 0 1000 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="1200" fill="#F7D5CD"/>
+  <circle cx="162" cy="181" r="176" fill="#EFC154"/>
+  <path d="M0 993C152 909 272 937 391 1020C510 1103 687 1113 1000 936V1200H0V993Z" fill="#0D4A3D"/>
+  <rect x="205" y="294" width="596" height="493" rx="26" fill="#FFFDF8"/>
+  <rect x="228" y="317" width="550" height="447" rx="13" stroke="#1D322B" stroke-opacity=".23" stroke-width="3"/>
+  <path d="M319 635C321 511 387 421 500 421C613 421 679 511 681 635V731H319V635Z" fill="#D85A45"/>
+  <path d="M369 731V606C369 533 427 475 500 475C573 475 631 533 631 606V731" fill="#0D4A3D"/>
+  <rect x="430" y="560" width="140" height="134" rx="14" fill="#EFC154"/>
+  <text x="500" y="651" text-anchor="middle" fill="#D85A45" font-family="Georgia, serif" font-size="71">北</text>
+  <text x="500" y="865" text-anchor="middle" fill="#1D322B" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="3">LIFESTYLE IMAGE PLACEHOLDER</text>
+</svg>

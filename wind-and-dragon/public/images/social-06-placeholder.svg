@@ -1,0 +1,10 @@
+<svg width="600" height="600" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="600" fill="#DCE8DE"/>
+  <circle cx="83" cy="112" r="143" fill="#D85A45"/>
+  <circle cx="491" cy="476" r="177" fill="#EFC154"/>
+  <rect x="173" y="147" width="254" height="302" rx="30" fill="#FFFDF8"/>
+  <rect x="190" y="164" width="220" height="268" rx="16" stroke="#1D322B" stroke-opacity=".25" stroke-width="3"/>
+  <path d="M231 301C251 263 289 243 331 248C369 253 390 288 372 321C355 352 308 359 281 337C265 324 260 313 270 297" stroke="#0D4A3D" stroke-linecap="round" stroke-width="14"/>
+  <circle cx="326" cy="291" r="13" fill="#D85A45"/>
+  <text x="300" y="540" text-anchor="middle" fill="#1D322B" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">SOCIAL PLACEHOLDER</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg width="600" height="600" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="600" fill="#E6E8D2"/>
+  <path d="M0 143C125 109 163 144 266 100C369 56 456 33 600 96V0H0V143Z" fill="#EFC154"/>
+  <g transform="rotate(-9 300 334)">
+    <rect x="153" y="158" width="294" height="350" rx="33" fill="#FFFDF8"/>
+    <text x="300" y="379" text-anchor="middle" fill="#D85A45" font-family="Georgia, serif" font-size="165">南</text>
+    <path d="M218 437H382" stroke="#0D4A3D" stroke-linecap="round" stroke-width="13"/>
+  </g>
+  <text x="300" y="550" text-anchor="middle" fill="#1D322B" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">SOCIAL PLACEHOLDER</text>
+</svg>

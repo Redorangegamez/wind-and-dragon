@@ -1,0 +1,12 @@
+<svg width="800" height="1000" viewBox="0 0 800 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1000" fill="#DCE8DE"/>
+  <path d="M0 764C160 671 285 736 398 791C511 846 677 874 800 774V1000H0V764Z" fill="#0D4A3D"/>
+  <circle cx="641" cy="142" r="156" fill="#EFC154"/>
+  <path d="M291 249C315 196 348 169 400 169C452 169 485 196 509 249L590 316L682 441L590 530L548 492V760H252V492L210 530L118 441L210 316L291 249Z" fill="#D85A45"/>
+  <path d="M291 249C315 196 348 169 400 169C452 169 485 196 509 249L590 316L682 441L590 530L548 492V760H252V492L210 530L118 441L210 316L291 249Z" stroke="#1D322B" stroke-opacity=".3" stroke-width="4"/>
+  <path d="M330 248C330 279 359 306 400 306C441 306 470 279 470 248" stroke="#FFFDF8" stroke-width="5"/>
+  <path d="M400 306V410" stroke="#FFFDF8" stroke-width="5"/>
+  <circle cx="400" cy="467" r="63" fill="#FFFDF8"/>
+  <path d="M377 442C397 423 431 427 444 454C454 476 439 498 414 498C398 498 385 489 378 478C363 459 366 449 377 442Z" fill="#0D4A3D"/>
+  <text x="400" y="856" text-anchor="middle" fill="#FFFDF8" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="3">PRODUCT PLACEHOLDER</text>
+</svg>
